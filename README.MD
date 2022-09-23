@@ -1,6 +1,6 @@
 # buffer-command-vim
 
-vim plugin that exposes buffer management functions that perform to my personal preference.
+Vim plugin exposing buffer management functions that perform to my personal preference.
 
 ## Installation
 
